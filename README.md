@@ -55,7 +55,6 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | **[test-end-to-end](https://github.com/Aronbfrt/test-end-to-end)** | Plugin Claude Code — génère une suite E2E complète depuis le code. Migration auto Jest/Cypress/Robot/PHPUnit → pytest. Auto-fix des tests cassés en boucle. | Python · Selenium · pytest |
-| **[Aronbfrt](https://github.com/Aronbfrt/Aronbfrt)** | Ce profil GitHub — parce que même un README mérite d'être bien codé. | Markdown · Cyberpunk |
 
 ---
 
@@ -67,8 +66,6 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronbfrt&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6" height="180"/>
 
 <img src="https://streak-stats.demolab.com/?user=Aronbfrt&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff6b35&currStreakLabel=00FF41" width="500"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aronbfrt&theme=matrix&no-frame=true&margin-w=10&column=6" width="700"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aronbfrt&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41" width="750"/>
 
