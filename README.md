@@ -66,7 +66,7 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 <img src="https://github-readme-stats.vercel.app/api?username=Aronbfrt&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&rank_icon=github&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronbfrt&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aronbfrt&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff6b35&currStreakLabel=00FF41" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=Aronbfrt&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff6b35&currStreakLabel=00FF41" width="500"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Aronbfrt&theme=matrix&no-frame=true&margin-w=10&column=6" width="700"/>
 
