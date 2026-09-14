@@ -56,7 +56,7 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 
 | Projet | Description | Stack | Accès |
 |--------|-------------|-------|-------|
-| **[test-end-to-end](https://github.com/Aronbfrt/test-end-to-end)** | Appli autonome, marche sans IA — génère les tests, auto-fix les cassés, sort un rapport, et parle n'importe quel langage/stack. | Python · Selenium · pytest | 🔒 |
+| **[test-end-to-end](https://github.com/Aronbfrt/test-end-to-end)** | Appli autonome, marche sans IA — génère les tests, auto-fix les cassés, sort un rapport, parle n'importe quel langage/stack. Branchée à une IA, elle passe en mode monstre. | Python · Selenium · pytest | 🔒 |
 | **[vimafit](https://github.com/Aronbfrt/vimafit)** | Plateforme studio Pilates & Fitness devenue grande — espace membre multi-rôles (coach/client/admin), réservations, paiements Stripe, back-office. Le "site vitrine" a pris du muscle. | Next.js · TypeScript | 🔒 |
 | **[Vulcan](https://github.com/Aronbfrt/Vulcan)** | Projet perso costaud, nom qui claque, code qui claque encore plus. | TypeScript | 🔒 |
 | **[habitat-eco-renov](https://github.com/Aronbfrt/habitat-eco-renov)** | Site génération de leads rénovation énergétique. | PHP | 🔒 |
