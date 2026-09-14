@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=220&section=header&text=ARONBFRT&fontSize=90&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Dev%20·%20Security%20·%20Builder&descSize=20&descAlignY=58&descColor=c9d1d9" width="100%"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Terminal hacking"/>
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="260" alt="Matrix"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+%2F+Security+Researcher;Builder+de+plugins+Claude+Code;Tests+E2E+·+Sécu+·+IA+·+Automatisation;%3E+initializing+payload_)](https://git.io/typing-svg)
 
