@@ -4,12 +4,7 @@
       <feGaussianBlur stdDeviation="2.5" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <radialGradient id="bg" cx="50%" cy="45%" r="60%">
-      <stop offset="0%" stop-color="#0d2c17"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </radialGradient>
   </defs>
-  <circle cx="70" cy="75" r="62" fill="url(#bg)" stroke="#00FF41" stroke-width="1.5" opacity="0.9"/>
   <g filter="url(#glow)" fill="none" stroke="#00FF41" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
     <path d="M28 38 h84 a9 9 0 0 1 9 9 v52 a9 9 0 0 1 -9 9 h-52 l-27 24 v-24 h-5 a9 9 0 0 1 -9 -9 v-52 a9 9 0 0 1 9 -9 z" fill="#0d1117"/>
     <path d="M48 76 l17 17 l38 -38">

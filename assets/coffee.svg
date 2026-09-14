@@ -2,17 +2,9 @@
   <defs>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2.5" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <radialGradient id="bg" cx="50%" cy="45%" r="60%">
-      <stop offset="0%" stop-color="#0d2c17"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </radialGradient>
   </defs>
-  <circle cx="70" cy="72" r="62" fill="url(#bg)" stroke="#00FF41" stroke-width="1.5" opacity="0.9"/>
   <g filter="url(#glow)" fill="none" stroke="#00FF41" stroke-width="4" stroke-linecap="round">
     <path d="M50 50 Q45 28 53 12" opacity="0.8">
       <animate attributeName="d" values="M50 50 Q45 28 53 12;M50 50 Q57 28 47 12;M50 50 Q45 28 53 12" dur="2s" repeatCount="indefinite"/>
