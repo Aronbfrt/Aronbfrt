@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=220&section=header&text=ARONBFRT&fontSize=90&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Dev%20·%20Security%20·%20Builder&descSize=20&descAlignY=58&descColor=c9d1d9" width="100%"/>
 
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="260" alt="Matrix"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Terminal hacking"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+%2F+Security+Researcher;Builder+de+plugins+Claude+Code;Tests+E2E+·+Sécu+·+IA+·+Automatisation;%3E+initializing+payload_)](https://git.io/typing-svg)
 
@@ -62,12 +62,10 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aronbfrt&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&rank_icon=github&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronbfrt&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6" height="180"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Aronbfrt&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&rank_icon=github&count_private=true" height="180"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Aronbfrt&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6" height="180"/>
 
 <img src="https://streak-stats.demolab.com/?user=Aronbfrt&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff6b35&currStreakLabel=00FF41" width="500"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aronbfrt&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41" width="750"/>
 
 </div>
 
