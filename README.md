@@ -56,8 +56,8 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 
 | Projet | Description | Stack | Accès |
 |--------|-------------|-------|-------|
-| **[test-end-to-end](https://github.com/Aronbfrt/test-end-to-end)** | Plugin Claude Code — génère une suite E2E complète depuis le code. Migration auto Jest/Cypress/Robot/PHPUnit → pytest. Auto-fix des tests cassés en boucle. | Python · Selenium · pytest | 🔒 |
-| **[vimafit](https://github.com/Aronbfrt/vimafit)** | Site vitrine studio Pilates & Fitness — full stack, du design aux paiements. | Next.js · TypeScript | 🔒 |
+| **[test-end-to-end](https://github.com/Aronbfrt/test-end-to-end)** | Appli autonome de tests E2E — tourne sans IA/Claude, génère et lance les tests toute seule. Plein d'autres features embarquées. | Python · Selenium · pytest | 🔒 |
+| **[vimafit](https://github.com/Aronbfrt/vimafit)** | Plateforme complète studio Pilates & Fitness — espace membre, réservations, paiements. Plus un simple site vitrine. | Next.js · TypeScript | 🔒 |
 | **[Vulcan](https://github.com/Aronbfrt/Vulcan)** | Projet perso costaud, nom qui claque, code qui claque encore plus. | TypeScript | 🔒 |
 | **[habitat-eco-renov](https://github.com/Aronbfrt/habitat-eco-renov)** | Site génération de leads rénovation énergétique. | PHP | 🔒 |
 | **[doggysmilehome](https://github.com/Aronbfrt/doggysmilehome)** | Plateforme service à domicile pour chiens — parce que tout le monde mérite du full-stack. | TypeScript | 🔒 |
