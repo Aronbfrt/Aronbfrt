@@ -71,10 +71,8 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 
 <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-![BUGS](https://img.shields.io/badge/BUGS_FIXED-9999%2B-00FF41?style=for-the-badge&labelColor=0d1117)
-![CAFÉ](https://img.shields.io/badge/CAFÉ_CONSOMMÉ-OVERFLOW-00FF41?style=for-the-badge&labelColor=0d1117)
-![UPTIME](https://img.shields.io/badge/UPTIME-3j_sans_dormir-00FF41?style=for-the-badge&labelColor=0d1117)
-![CODE_REVIEW](https://img.shields.io/badge/CODE_REVIEW-ça_marche_chez_moi-00FF41?style=for-the-badge&labelColor=0d1117)
+| <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/bug.svg" width="70"/><br/>**BUGS FIXED**<br/>9999+ | <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/coffee.svg" width="70"/><br/>**CAFÉ**<br/>OVERFLOW | <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/uptime.svg" width="70"/><br/>**UPTIME**<br/>3j sans dormir | <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/review.svg" width="70"/><br/>**CODE REVIEW**<br/>"ça marche chez moi"
+|:---:|:---:|:---:|:---:|
 
 </div>
 

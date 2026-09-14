@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="140" viewBox="0 0 120 140">
+  <g fill="none" stroke="#00FF41" stroke-width="4">
+    <circle cx="60" cy="75" r="45"/>
+    <line x1="60" y1="75" x2="60" y2="45" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 60 75" to="360 60 75" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="60" y1="75" x2="85" y2="75" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 60 75" to="360 60 75" dur="72s" repeatCount="indefinite"/>
+    </line>
+    <circle cx="60" cy="75" r="4" fill="#00FF41"/>
+    <line x1="45" y1="20" x2="75" y2="20" stroke-linecap="round"/>
+    <line x1="60" y1="20" x2="60" y2="30" stroke-linecap="round"/>
+  </g>
+</svg>

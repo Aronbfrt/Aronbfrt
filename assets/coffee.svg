@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="140" viewBox="0 0 120 140">
+  <g fill="none" stroke="#00FF41" stroke-width="4" stroke-linecap="round">
+    <path d="M40 40 Q35 20 42 5" opacity="0.8">
+      <animate attributeName="d"
+        values="M40 40 Q35 20 42 5;M40 40 Q45 20 38 5;M40 40 Q35 20 42 5"
+        dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M60 40 Q55 18 62 2" opacity="0.8">
+      <animate attributeName="d"
+        values="M60 40 Q55 18 62 2;M60 40 Q65 18 58 2;M60 40 Q55 18 62 2"
+        dur="2.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M80 40 Q75 20 82 5" opacity="0.8">
+      <animate attributeName="d"
+        values="M80 40 Q75 20 82 5;M80 40 Q85 20 78 5;M80 40 Q75 20 82 5"
+        dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="none" stroke="#00FF41" stroke-width="4" stroke-linejoin="round">
+    <path d="M25 55 h60 l-6 55 a10 10 0 0 1 -10 9 h-28 a10 10 0 0 1 -10 -9 z" fill="#0d1117"/>
+    <path d="M85 65 q22 0 22 20 q0 20 -22 20" fill="none"/>
+  </g>
+</svg>
