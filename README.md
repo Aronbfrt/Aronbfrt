@@ -69,7 +69,12 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 
 <div align="center">
 
-![Visiteurs](https://komarev.com/ghpvc/?username=Aronbfrt&color=00ff41&style=for-the-badge&label=INTRUS+DÉTECTÉS)
+<img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+![BUGS](https://img.shields.io/badge/BUGS_FIXED-9999%2B-00FF41?style=for-the-badge&labelColor=0d1117)
+![CAFÉ](https://img.shields.io/badge/CAFÉ_CONSOMMÉ-OVERFLOW-00FF41?style=for-the-badge&labelColor=0d1117)
+![UPTIME](https://img.shields.io/badge/UPTIME-3j_sans_dormir-00FF41?style=for-the-badge&labelColor=0d1117)
+![CODE_REVIEW](https://img.shields.io/badge/CODE_REVIEW-ça_marche_chez_moi-00FF41?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
