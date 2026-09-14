@@ -67,16 +67,22 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 
 <img src="https://streak-stats.demolab.com/?user=Aronbfrt&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff6b35&currStreakLabel=00FF41" width="500"/>
 
+<br/>
+
+![Visiteurs](https://komarev.com/ghpvc/?username=Aronbfrt&color=00ff41&style=for-the-badge&label=INTRUS+DÉTECTÉS)
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUzMWI3YWZhYzFiMjM0ZGU4NzZlNGI3NTA2ZjNlMmM2MDExNGE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Hackerman"/>
 
 ```
-[ ACCÈS AUTORISÉ ] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+[ SYSTÈME COMPROMIS ] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+> sudo rm -rf /excuses
+> access granted. t'as scroll jusqu'en bas, respect.
 ```
 
 *Explore les repos. Les vulnérabilités sont dans les détails.*
