@@ -69,11 +69,6 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Aronbfrt&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&rank_icon=github&count_private=true" height="180"/>
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Aronbfrt&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6" height="180"/>
-
-<br/>
-
 ![Visiteurs](https://komarev.com/ghpvc/?username=Aronbfrt&color=00ff41&style=for-the-badge&label=INTRUS+DÉTECTÉS)
 
 </div>
