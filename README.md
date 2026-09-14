@@ -58,10 +58,10 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 |--------|-------------|-------|-------|
 | **[test-end-to-end](https://github.com/Aronbfrt/test-end-to-end)** | Appli autonome, marche sans IA — génère les tests, auto-fix les cassés, sort un rapport, parle n'importe quel langage/stack. Branchée à une IA, elle passe en mode monstre. | Python · Selenium · pytest | 🔒 |
 | **[vimafit](https://github.com/Aronbfrt/vimafit)** | Plateforme studio Pilates & Fitness devenue grande — espace membre multi-rôles (coach/client/admin), réservations, paiements Stripe, back-office. Le "site vitrine" a pris du muscle. | Next.js · TypeScript | 🔒 |
-| **[Vulcan](https://github.com/Aronbfrt/Vulcan)** | Projet perso costaud, nom qui claque, code qui claque encore plus. | TypeScript | 🔒 |
-| **[habitat-eco-renov](https://github.com/Aronbfrt/habitat-eco-renov)** | Site génération de leads rénovation énergétique. | PHP | 🔒 |
-| **[doggysmilehome](https://github.com/Aronbfrt/doggysmilehome)** | Plateforme service à domicile pour chiens — parce que tout le monde mérite du full-stack. | TypeScript | 🔒 |
-| **[GSB-lourd](https://github.com/Aronbfrt/GSB-lourd)** | Le nom dit tout. | — | 🌐 public |
+| **[Vulcan](https://github.com/Aronbfrt/Vulcan)** | Nom de dieu du feu, code qui brûle autant. | TypeScript | 🔒 |
+| **[habitat-eco-renov](https://github.com/Aronbfrt/habitat-eco-renov)** | Génère des leads pendant que ta facture de chauffage pleure. | PHP | 🔒 |
+| **[doggysmilehome](https://github.com/Aronbfrt/doggysmilehome)** | Parce qu'on a tous besoin de chien. Full-stack pour toutous. | TypeScript | 🔒 |
+| **[GSB-lourd](https://github.com/Aronbfrt/GSB-lourd)** | Le nom dit tout. Ouvre-le si t'as le cœur bien accroché. | — | 🌐 public |
 
 ---
 
