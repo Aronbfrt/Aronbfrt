@@ -71,7 +71,7 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 
 <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-| <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/bug.svg" width="70"/><br/>**BUGS FIXED**<br/>9999+ | <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/coffee.svg" width="70"/><br/>**CAFÉ**<br/>OVERFLOW | <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/uptime.svg" width="70"/><br/>**UPTIME**<br/>3j sans dormir | <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/review.svg" width="70"/><br/>**CODE REVIEW**<br/>"ça marche chez moi"
+| <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/bug.svg" width="100"/><br/>**BUGS FIXED**<br/>9999+ | <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/coffee.svg" width="100"/><br/>**CAFÉ**<br/>OVERFLOW | <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/uptime.svg" width="100"/><br/>**UPTIME**<br/>3j sans dormir | <img src="https://raw.githubusercontent.com/Aronbfrt/Aronbfrt/main/assets/review.svg" width="100"/><br/>**CODE REVIEW**<br/>"ça marche chez moi"
 |:---:|:---:|:---:|:---:|
 
 </div>

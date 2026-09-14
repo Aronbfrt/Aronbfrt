@@ -1,26 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="140" viewBox="0 0 120 140">
-  <g fill="none" stroke="#00FF41" stroke-width="4" stroke-linecap="round">
-    <path d="M40 40 Q35 20 42 5" opacity="0.8">
-      <animate attributeName="d"
-        values="M40 40 Q35 20 42 5;M40 40 Q45 20 38 5;M40 40 Q35 20 42 5"
-        dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="150" viewBox="0 0 140 150">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="bg" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#0d2c17"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+  </defs>
+  <circle cx="70" cy="72" r="62" fill="url(#bg)" stroke="#00FF41" stroke-width="1.5" opacity="0.9"/>
+  <g filter="url(#glow)" fill="none" stroke="#00FF41" stroke-width="4" stroke-linecap="round">
+    <path d="M50 50 Q45 28 53 12" opacity="0.8">
+      <animate attributeName="d" values="M50 50 Q45 28 53 12;M50 50 Q57 28 47 12;M50 50 Q45 28 53 12" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.15;0.9" dur="2s" repeatCount="indefinite"/>
     </path>
-    <path d="M60 40 Q55 18 62 2" opacity="0.8">
-      <animate attributeName="d"
-        values="M60 40 Q55 18 62 2;M60 40 Q65 18 58 2;M60 40 Q55 18 62 2"
-        dur="2.3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.3s" repeatCount="indefinite"/>
+    <path d="M70 50 Q65 24 73 8" opacity="0.8">
+      <animate attributeName="d" values="M70 50 Q65 24 73 8;M70 50 Q76 24 65 8;M70 50 Q65 24 73 8" dur="2.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.15;0.9" dur="2.3s" repeatCount="indefinite"/>
     </path>
-    <path d="M80 40 Q75 20 82 5" opacity="0.8">
-      <animate attributeName="d"
-        values="M80 40 Q75 20 82 5;M80 40 Q85 20 78 5;M80 40 Q75 20 82 5"
-        dur="1.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.8s" repeatCount="indefinite"/>
+    <path d="M90 50 Q85 28 93 12" opacity="0.8">
+      <animate attributeName="d" values="M90 50 Q85 28 93 12;M90 50 Q97 28 85 12;M90 50 Q85 28 93 12" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.15;0.9" dur="1.8s" repeatCount="indefinite"/>
     </path>
   </g>
-  <g fill="none" stroke="#00FF41" stroke-width="4" stroke-linejoin="round">
-    <path d="M25 55 h60 l-6 55 a10 10 0 0 1 -10 9 h-28 a10 10 0 0 1 -10 -9 z" fill="#0d1117"/>
-    <path d="M85 65 q22 0 22 20 q0 20 -22 20" fill="none"/>
+  <g filter="url(#glow)" fill="none" stroke="#00FF41" stroke-width="4" stroke-linejoin="round">
+    <path d="M38 65 h56 l-5 44 a11 11 0 0 1 -11 10 h-24 a11 11 0 0 1 -11 -10 z" fill="#0d1117"/>
+    <path d="M94 73 q18 0 18 16 q0 16 -18 16" fill="none"/>
+    <line x1="46" y1="65" x2="46" y2="58" stroke-width="3" opacity="0.6"/>
+    <line x1="70" y1="65" x2="70" y2="58" stroke-width="3" opacity="0.6"/>
+    <line x1="86" y1="65" x2="86" y2="58" stroke-width="3" opacity="0.6"/>
   </g>
 </svg>
