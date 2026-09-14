@@ -52,9 +52,16 @@ Dev full-stack passionné de **cybersécurité applicative** et d'**automatisati
 
 ### `> ls ./projects --featured`
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **[test-end-to-end](https://github.com/Aronbfrt/test-end-to-end)** | Plugin Claude Code — génère une suite E2E complète depuis le code. Migration auto Jest/Cypress/Robot/PHPUnit → pytest. Auto-fix des tests cassés en boucle. | Python · Selenium · pytest |
+> *🔒 = `Permission denied`. T'as le droit de regarder le nom, pas le code. Demande gentiment.*
+
+| Projet | Description | Stack | Accès |
+|--------|-------------|-------|-------|
+| **[test-end-to-end](https://github.com/Aronbfrt/test-end-to-end)** | Plugin Claude Code — génère une suite E2E complète depuis le code. Migration auto Jest/Cypress/Robot/PHPUnit → pytest. Auto-fix des tests cassés en boucle. | Python · Selenium · pytest | 🔒 |
+| **[vimafit](https://github.com/Aronbfrt/vimafit)** | Site vitrine studio Pilates & Fitness — full stack, du design aux paiements. | Next.js · TypeScript | 🔒 |
+| **[Vulcan](https://github.com/Aronbfrt/Vulcan)** | Projet perso costaud, nom qui claque, code qui claque encore plus. | TypeScript | 🔒 |
+| **[habitat-eco-renov](https://github.com/Aronbfrt/habitat-eco-renov)** | Site génération de leads rénovation énergétique. | PHP | 🔒 |
+| **[doggysmilehome](https://github.com/Aronbfrt/doggysmilehome)** | Plateforme service à domicile pour chiens — parce que tout le monde mérite du full-stack. | TypeScript | 🔒 |
+| **[GSB-lourd](https://github.com/Aronbfrt/GSB-lourd)** | Le nom dit tout. | — | 🌐 public |
 
 ---
 
